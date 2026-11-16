@@ -1,0 +1,109 @@
+{
+  "title": "Bodie’s Big Saturday",
+  "voice": "Warm Storyteller",
+  "voice_id": "f45f7cdfe47a4a55aeb1689030b94a32",
+  "story_audio": "audio/story.mp3",
+  "story_duration": 108.774,
+  "pcm_duration": 108.744,
+  "gap": 0.65,
+  "pages": [
+    {
+      "index": 0,
+      "file": "audio/page_00.mp3",
+      "image": "images/page_00.jpg",
+      "duration": 4.284,
+      "start": 0.0
+    },
+    {
+      "index": 1,
+      "file": "audio/page_01.mp3",
+      "image": "images/page_01.jpg",
+      "duration": 7.863,
+      "start": 4.934
+    },
+    {
+      "index": 2,
+      "file": "audio/page_02.mp3",
+      "image": "images/page_02.jpg",
+      "duration": 6.896,
+      "start": 13.447
+    },
+    {
+      "index": 3,
+      "file": "audio/page_03.mp3",
+      "image": "images/page_03.jpg",
+      "duration": 7.628,
+      "start": 20.993
+    },
+    {
+      "index": 4,
+      "file": "audio/page_04.mp3",
+      "image": "images/page_04.jpg",
+      "duration": 8.046,
+      "start": 29.271
+    },
+    {
+      "index": 5,
+      "file": "audio/page_05.mp3",
+      "image": "images/page_05.jpg",
+      "duration": 6.896,
+      "start": 37.967
+    },
+    {
+      "index": 6,
+      "file": "audio/page_06.mp3",
+      "image": "images/page_06.jpg",
+      "duration": 7.68,
+      "start": 45.513
+    },
+    {
+      "index": 7,
+      "file": "audio/page_07.mp3",
+      "image": "images/page_07.jpg",
+      "duration": 8.046,
+      "start": 53.843
+    },
+    {
+      "index": 8,
+      "file": "audio/page_08.mp3",
+      "image": "images/page_08.jpg",
+      "duration": 8.62,
+      "start": 62.539
+    },
+    {
+      "index": 9,
+      "file": "audio/page_09.mp3",
+      "image": "images/page_09.jpg",
+      "duration": 7.445,
+      "start": 71.809
+    },
+    {
+      "index": 10,
+      "file": "audio/page_10.mp3",
+      "image": "images/page_10.jpg",
+      "duration": 8.046,
+      "start": 79.904
+    },
+    {
+      "index": 11,
+      "file": "audio/page_11.mp3",
+      "image": "images/page_11.jpg",
+      "duration": 7.314,
+      "start": 88.6
+    },
+    {
+      "index": 12,
+      "file": "audio/page_12.mp3",
+      "image": "images/page_12.jpg",
+      "duration": 7.314,
+      "start": 96.564
+    },
+    {
+      "index": 13,
+      "file": "audio/page_13.mp3",
+      "image": "images/page_13.jpg",
+      "duration": 3.866,
+      "start": 104.528
+    }
+  ]
+}
